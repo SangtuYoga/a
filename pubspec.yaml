@@ -1,4 +1,4 @@
-name: flutter_application_1
+name: flutter_sangtu_tugas2
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -49,6 +49,11 @@ flutter:
     - assets/appimages/lemonade.jpg
     - assets/appimages/pepsi.jpg
     - assets/appimages/sprite.jpg
+    - assets/appimages/yoga.jpeg
+    - assets/appimages/keranjang.png
+    - assets/appimages/pengguna.png
+    - assets/appimages/about.png
+    
 
   # To add assets to your application, add an assets section, like this:
   # assets:
